@@ -38,11 +38,11 @@
 - 可変長配列とは、文字通り長さ（要素数）を変更できる配列のこと
 
 # ArrayListの使い方を理解しよう
-1.ライブラリをインポートする
-`import java.util.ArrayList;`
-2.ArrayListの宣言を行う
-`ArrayList<データ型> scores = new ArrayList<データ型>();`
-3.ArrayListに値を代入する
-`scores.add(1);`
-4.ArrayListから要素を取り出す
+1.ライブラリをインポートする  
+`import java.util.ArrayList;`  
+2.ArrayListの宣言を行う  
+`ArrayList<データ型> scores = new ArrayList<データ型>();`  
+3.ArrayListに値を代入する  
+`scores.add(1);`  
+4.ArrayListから要素を取り出す  
 `scores.get(0)`
