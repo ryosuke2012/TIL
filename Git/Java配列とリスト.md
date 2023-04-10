@@ -13,7 +13,6 @@
  
 # 配列のさまざまな記述方法を理解しよう
 ① 配列の宣言と同時に、要素の作成も行う方法
-1
-2
-int[] scores;
-scores = new int[3];
+'1 int[] scores;'
+'2 scores = new int[3];'
+
